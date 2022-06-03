@@ -479,7 +479,7 @@
 				"type": "string",
 				"defaultValue": "kvkipgycy44fql7qacpoc"
 			},
-			"datalakeAccountNam": {
+			"datalakeAccountName": {
 				"type": "string",
 				"defaultValue": "kipgycy44fql7qacpoc"
 			}
