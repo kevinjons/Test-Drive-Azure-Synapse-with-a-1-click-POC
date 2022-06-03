@@ -478,6 +478,10 @@
 			"KeyVaultName": {
 				"type": "string",
 				"defaultValue": "kvkipgycy44fql7qacpoc"
+			},
+			"datalakeAccountNam": {
+				"type": "string",
+				"defaultValue": "kipgycy44fql7qacpoc"
 			}
 		},
 		"folder": {
