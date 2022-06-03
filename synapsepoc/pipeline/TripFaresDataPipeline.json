@@ -465,7 +465,7 @@
 			},
 			"SynapseWorkspaceName": {
 				"type": "string",
-				"defaultValue": "https://kipgycy44fql7qacpoc.dfs.core.windows.net"
+				"defaultValue": "kipgycy44fql7qacpocws1.database.net"
 			},
 			"SQLDedicatedPoolName": {
 				"type": "string",
@@ -478,10 +478,6 @@
 			"KeyVaultName": {
 				"type": "string",
 				"defaultValue": "kvkipgycy44fql7qacpoc"
-			},
-			"datalakeAccountName": {
-				"type": "string",
-				"defaultValue": "dlskippocfs1"
 			}
 		},
 		"folder": {
